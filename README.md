@@ -1,10 +1,10 @@
-# Complete Python  🐍🚀
+# Complete Python  
 
 This repository contains my structured learning of Python, including core concepts, problem-solving, and experiments. It serves as both a learning log and a revision resource.
 
 ---
 
-## 🛠️ Topics Covered
+## Topics Covered
 
 - Variables and Data Types  
 - Operators  
@@ -17,7 +17,7 @@ This repository contains my structured learning of Python, including core concep
 -upcoming .......
 ---
 
-## 🚀 Purpose
+## Purpose
 
 - Learn Python step by step  
 - Write clean and readable code  
@@ -27,7 +27,7 @@ This repository contains my structured learning of Python, including core concep
 
 ---
 
-## 🧠 What You’ll Find
+## What You’ll Find
 
 - Well-structured Python programs  
 - Examples for each concept  
@@ -36,7 +36,7 @@ This repository contains my structured learning of Python, including core concep
 
 ---
 
-## 💡 Learning Approach
+## Learning Approach
 
 - Learn one concept at a time  
 - Practice with examples  
@@ -46,7 +46,7 @@ This repository contains my structured learning of Python, including core concep
 
 ---
 
-## 🔥 Highlights
+## Highlights
 
 - Deep understanding of list slicing and indexing  
 - Explored internal behavior of Python operations  
@@ -55,18 +55,18 @@ This repository contains my structured learning of Python, including core concep
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 python filename.py
 
 ---
 
 
-📈 Progress
+ ## Progress
 This repository is updated regularly as part of my continuous learning journey.
 
 ---
 
-🤝 Contributions
+ ## Contributions
 
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
