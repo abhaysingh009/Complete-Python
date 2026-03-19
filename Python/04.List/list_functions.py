@@ -26,6 +26,7 @@ li2=[82,435];
 
 li.extend(li2);# push elements of the li2 at the end
 # li.extend(92);# throws error becz it takes only iterable object
+li.reverse();
 print(li);
 
 # List Methods
@@ -45,5 +46,10 @@ print(li);
 #copy
 #insert
 #count
-#
-  
+#index
+print(li.index(20));# index of value __ throws error if vaue not present
+
+st1=["hello","w"]# ans w (ASCII >h)
+print(max(st1))
+st2 =st1.copy();
+print(st2)
