@@ -48,10 +48,10 @@ This repository contains my structured learning of Python, including core concep
 
 ## Highlights
 
-- Deep understanding of list slicing and indexing  
-- Explored internal behavior of Python operations  
-- Implemented real-time output using `\r`  
-- Practiced logical thinking through coding  
+- Focused on understanding internal working of Python concepts rather than just syntax
+- Practiced writing logic-driven code with attention to edge cases and behavior
+- Explored how Python handles operations like slicing, iteration, and data storage internally
+- Developed habit of questioning “why” behind code execution
 
 ---
 
