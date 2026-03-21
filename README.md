@@ -8,15 +8,27 @@ This repository contains my structured learning of Python, including core concep
 
 - Variables and Data Types  
 - Operators  
-- User Input  
-- Conditional Statements  
-- Loops  
-- Strings and String Functions  
+- User Input & Output  
+- Conditional Statements (if-else)  
+- Loops (for, while)  
+- Strings and String Manipulation  
 - Lists and List Slicing  
 - Tuples, Sets, and Dictionaries  
--upcoming .......
----
+- List Comprehension  
+- Functions (User-defined)  
+- Modules and Standard Libraries  
+- File Handling  
+- Serialization (Pickle)  
+- JSON Handling  
+- Date and Time Modules  
+- Random Module  
+- Basic Data Structures (Stack & Queue)  
 
+## Upcoming
+
+- Object-Oriented Programming (OOP)  
+- Exception Handling  
+- Advanced Python Concepts  
 ## Purpose
 
 - Learn Python step by step  
