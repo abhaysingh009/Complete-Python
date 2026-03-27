@@ -27,7 +27,7 @@ This repository contains my structured learning of Python, including core concep
 - Exception Handling  
 
 ## Upcoming
-- sqlite datanase connection
+- sqlite database connection
 - mySQL connection
 - Advanced Python Concepts  
 ## Purpose
