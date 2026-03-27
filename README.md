@@ -29,7 +29,10 @@ This repository contains my structured learning of Python, including core concep
 
 ## Upcoming
 - mySQL connection
-- Advanced Python Concepts  
+- Advanced Python Concepts
+- Flask
+- Django
+- Libraries (Numpy,pandas....)  
 ## Purpose
 
 - Learn Python step by step  
